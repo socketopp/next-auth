@@ -251,6 +251,7 @@ const actions: AuthAction[] = [
   "callback",
   "verify-request",
   "error",
+  "fallback",
 ]
 
 type DynamicSvelteKitAuthConfig = (
